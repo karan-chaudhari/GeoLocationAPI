@@ -8,8 +8,7 @@ import requests
 import json
 
 # Create your views here.
-api_key = "AIzaSyCOD3KvY2DDzEfel-NZ_LKIWXr86EF_EUw"
-# api_key = "YOUR-KEY"
+api_key = "YOUR-KEY"
 
 def format_address(address):
     address = address.replace("#","")
